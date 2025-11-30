@@ -32,6 +32,8 @@ Passionate about creating scalable apps, clean UI, and meaningful digital experi
 ---
 
 ## 📌 Featured Projects
+### 🔹 [ChargingPowerMeter-iOS](https://github.com/qaaiss/ChargingPowerMeter-iOS)  
+SwiftUI iOS app to estimate charging wattage, charge speed, and remaining time using battery level sampling; includes a real-time dashboard, history log, and settings panel.
 
 ### 🔹 [php-color-converter](https://github.com/qaaiss/php-color-converter)  
 Convert colors between RGB & HEX formats with validation and helper functions.
