@@ -14,7 +14,6 @@ Passionate about creating scalable apps, clean UI, and meaningful digital experi
 - 🧩 Creator of several tools & utilities including color converters and JSON formatters  
 - 🖥️ Experienced in **PHP**, system integration & API development  
 - 🎨 Focus on clean UI, smooth UX, and minimalistic app design  
-- 🌍 Based in UAE — building digital products for Gulf users  
 - 🔧 Love solving real-world problems with code  
 
 ---
@@ -34,16 +33,16 @@ Passionate about creating scalable apps, clean UI, and meaningful digital experi
 
 ## 📌 Featured Projects
 
-### 🔹 [php-color-converter](https://github.com/qaais/php-color-converter)  
+### 🔹 [php-color-converter](https://github.com/qaaiss/php-color-converter)  
 Convert colors between RGB & HEX formats with validation and helper functions.
 
-### 🔹 [php-json-formatter](https://github.com/qaais/php-json-formatter)  
+### 🔹 [php-json-formatter](https://github.com/qaaiss/php-json-formatter)  
 A simple PHP tool to validate, format, and minify JSON with a clean UI.
 
-### 🔹 [php-image-color-extractor](https://github.com/qaais/php-image-color-extractor)  
+### 🔹 [php-image-color-extractor](https://github.com/qaaiss/php-image-color-extractor)  
 Extract dominant colors from JPG/PNG images and return values in HEX & RGB.
 
-### 🔹 [tafqeet.com](https://github.com/qaais/tafqeet.com)  
+### 🔹 [tafqeet.com](https://github.com/qaaiss/tafqeet.com)  
 Convert numbers into words (Arabic/English) with currency support.
 
 ---
@@ -59,8 +58,8 @@ Convert numbers into words (Arabic/English) with currency support.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=qaais&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qaais&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=qaaiss&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qaaiss&layout=compact&theme=tokyonight" />
 </p>
 
 ---
