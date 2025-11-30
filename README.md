@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/GU7GqGA.png" width="100%" alt="Qais Ali Banner"/>
-</p>
+
 
 # 👋 Hi, I'm Qais Ali
 
